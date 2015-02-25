@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=Toggle touch
+Exec=/home/vilhuber/bin/toggle_finger_touch.sh toggle
+Comment[en_US]=Toggle finger touch
+Name=Toggle touch
+Comment=Toggle finger touch
+Icon=/usr/share/icons/gnome/256x256/apps/gnome-mixer.png

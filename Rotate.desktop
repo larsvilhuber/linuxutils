@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=Rotate
+Exec=/home/vilhuber/bin/rotate_monitor_incremental.sh go
+Comment[en_US]=Rotate CW
+Name=CW
+Comment=Rotate CW
+Icon=gnome-panel-launcher
